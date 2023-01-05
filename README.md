@@ -16,7 +16,7 @@
 
 ## Data Processing 
  - Our data processing takes place in our ETL Report and Visulizations.ipynb 
- - Our other jupyer notebook files are for each of the 4 data sets individually 
+ - Our other jupyer notebook files in the Individual folder are for each of the 4 data sets individually 
   
  ## Results
  - We answered our questions in our Report.pdf
