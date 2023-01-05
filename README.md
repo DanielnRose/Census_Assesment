@@ -11,8 +11,12 @@
 - What about revenues?
 - How do salaries differ across states depending on technology use?
 
+## Data
+- We got our data from the US Census Annual Business Survey (ABS) APIs https://www.census.gov/data/developers/data-sets/abs.2019.html
+
 ## Data Processing 
  - Our data processing takes place in our ETL Report and Visulizations.ipynb 
- 
+ - Our other jupyer notebook files are for each of the 4 data sets individually 
+  
  ## Results
- - Our results our in our project report
+ - We answered our questions in our Report.pdf
